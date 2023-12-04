@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **test-project**
 
-- 🌱 I’m currently studying in **Tunis Business Schoole TBS**
+- 🌱 I’m currently studying in **Tunis Business School TBS**
 
 - 👯 I’m looking to collaborate on **test**
 
